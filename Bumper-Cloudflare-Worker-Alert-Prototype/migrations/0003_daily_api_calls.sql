@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS daily_api_calls (
+  call_date TEXT PRIMARY KEY,
+  call_count INTEGER NOT NULL DEFAULT 0,
+  updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
