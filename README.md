@@ -10,7 +10,7 @@ Built during [Drivhuset Ideathon 2026](https://kistasciencecity.com/events/drivh
 
 There were 18 teams. The top 5 pitched in the final round. We were not selected for the final pitch and finished unplaced.
 
-## Team - Teamname: KEFT
+## Team - Team name: KEFT
 
 - [FelixCAxO](https://github.com/FelixCAxO)
 - [emillixiao-web](https://github.com/emillixiao-web)
