@@ -1,6 +1,6 @@
 # Bumper
 
-Bumper is a hackathon prototype for a parent dashboard that shows calm safety signals from online play without exposing private conversations.
+Bumper is a hackathon prototype for parents. It shows example alerts when a child may have run into something risky while playing online, without showing their private messages.
 
 ![Bumper dashboard screenshot](Bumper-Lovable-Prototype/src/assets/Bumper_Dashboard_Screenshot.png)
 
@@ -22,7 +22,7 @@ There were 18 teams. The top 5 pitched in the final round. We were not selected 
 - `Bumper-Lovable-Prototype` - the parent dashboard built with Lovable, TanStack Start, React, and Cloudflare proxy code.
 - `Bumper-Cloudflare-Worker-Alert-Prototype` - the Cloudflare Worker backend, D1 schema, demo alert API, and browser demo controls.
 
-The prototype stores and displays alert metadata only: risk level, platform, event type, reason, suggested next step, and timestamps. It is not meant to collect or show private chats, passwords, screenshots, credentials, or message history.
+The demo uses sample alerts with a risk level, platform, event type, reason, suggested next step, and timestamp. It is meant to show the flow, not collect or display private chats, passwords, screenshots, credentials, or message history.
 
 ## Run Locally
 
