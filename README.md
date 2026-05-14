@@ -24,33 +24,6 @@ There were 18 teams. The top 5 pitched in the final round. We were not selected 
 
 The demo uses sample alerts with a risk level, platform, event type, reason, suggested next step, and timestamp. It is meant to show the flow, not collect or display private chats, passwords, screenshots, credentials, or message history.
 
-## Run Locally
-
-Backend:
-
-```bash
-cd Bumper-Cloudflare-Worker-Alert-Prototype
-npm install
-cp .dev.vars.example .dev.vars
-npm run dev
-```
-
-Frontend:
-
-```bash
-cd Bumper-Lovable-Prototype
-bun install
-cp .env.example .env.local
-bun run dev
-```
-
-For local integration, point the frontend at the local Worker:
-
-```dotenv
-BACKEND_API_BASE_URL=http://127.0.0.1:8787
-VITE_DEMO_CONTROL_PANEL_URL=http://127.0.0.1:8787/demo
-```
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
