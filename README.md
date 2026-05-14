@@ -12,10 +12,10 @@ There were 18 teams. The top 5 pitched in the final round. We were not selected 
 
 ## Team - Team name: KEFT
 
-- [FelixCAxO](https://github.com/FelixCAxO)
-- [emillixiao-web](https://github.com/emillixiao-web)
-- Tobias H ([Greberra](https://github.com/Greberra))
-- [kajgrambo](https://github.com/kajgrambo)
+- Felix Olsson - [GitHub](https://github.com/FelixCAxO) - [LinkedIn](https://www.linkedin.com/in/felixcaxo/)
+- Emilli Xiao - [GitHub](https://github.com/emillixiao-web) - [LinkedIn](https://www.linkedin.com/in/emily-xiao-2225832a8/)
+- Tobias Hamrén - [GitHub](https://github.com/Greberra) - [LinkedIn](https://www.linkedin.com/in/tobias-hamr%C3%A9n-a980b73ba/)
+- Kaj Grambo - [GitHub](https://github.com/kajgrambo) - [LinkedIn](https://www.linkedin.com/in/kaj-grambo/)
 
 ## What We Built
 
